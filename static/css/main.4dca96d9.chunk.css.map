@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/styles.css"],"names":[],"mappings":"AAAA,KACC,oBAAqB,CACpB,iBACF,CACA,GACE,oBACF","file":"main.4dca96d9.chunk.css","sourcesContent":[".App {\n font-family: \"Kokoro\";\n  text-align: center;\n}\nh2{\n  font-family: \"kokoro\";\n}\n\n"]}
